@@ -1,0 +1,295 @@
+//*******************************************************
+//Map Names
+//*******************************************************
+
+//Episode 1
+
+heretic/e1m1		"sounds/Heretic/MapNames/Episode1/TheDocks.ogg"
+heretic/e1m2		"sounds/Heretic/MapNames/Episode1/TheDungeons.ogg"
+heretic/e1m3		"sounds/Heretic/MapNames/Episode1/TheGatehouse.ogg"
+heretic/e1m4		"sounds/Heretic/MapNames/Episode1/TheGuardTower.ogg"
+heretic/e1m5		"sounds/Heretic/MapNames/Episode1/TheCitadel.ogg"
+heretic/e1m6		"sounds/Heretic/MapNames/Episode1/TheCathedral.ogg"
+heretic/e1m7		"sounds/Heretic/MapNames/Episode1/TheCrypts.ogg"
+heretic/e1m8		"sounds/Heretic/MapNames/Episode1/HellsMaw.ogg"
+heretic/e1m9		"sounds/Heretic/MapNames/Episode1/TheGraveyard.ogg"
+
+
+//Episode 2
+
+heretic/e2m1		"sounds/Heretic/MapNames/Episode2/TheCrater.ogg"
+heretic/e2m2		"sounds/Heretic/MapNames/Episode2/TheLavaPits.ogg"
+heretic/e2m3		"sounds/Heretic/MapNames/Episode2/TheRiverOfFire.ogg"
+heretic/e2m4		"sounds/Heretic/MapNames/Episode2/TheIceGrotto.ogg"
+heretic/e2m5		"sounds/Heretic/MapNames/Episode2/TheCatacombs.ogg"
+heretic/e2m6		"sounds/Heretic/MapNames/Episode2/TheLabyrinth.ogg"
+heretic/e2m7		"sounds/Heretic/MapNames/Episode2/TheGreatHall.ogg"
+heretic/e2m8		"sounds/Heretic/MapNames/Episode2/PortalsOfChaos.ogg"
+heretic/e2m9		"sounds/Heretic/MapNames/Episode2/TheGlacier.ogg"
+
+
+//Episode 3
+
+heretic/e3m1		"sounds/Heretic/MapNames/Episode3/TheStorehouse.ogg"
+heretic/e3m2		"sounds/Heretic/MapNames/Episode3/TheCesspool.ogg"
+heretic/e3m3		"sounds/Heretic/MapNames/Episode3/TheConfluence.ogg"
+heretic/e3m4		"sounds/Heretic/MapNames/Episode3/AzureFortress.ogg"
+heretic/e3m5		"sounds/Heretic/MapNames/Episode3/OphidianLair.ogg"
+heretic/e3m6		"sounds/Heretic/MapNames/Episode3/HallsOfFear.ogg"
+heretic/e3m7		"sounds/Heretic/MapNames/Episode3/TheChasm.ogg"
+heretic/e3m8		"sounds/Heretic/MapNames/Episode3/DsparilsKeep.ogg"
+heretic/e3m9		"sounds/Heretic/MapNames/Episode3/TheAquafier.ogg"
+
+
+//Episode 4
+
+heretic/e4m1		"sounds/Heretic/MapNames/Episode4/Catafalque.ogg"
+heretic/e4m2		"sounds/Heretic/MapNames/Episode4/Blockhouse.ogg"
+heretic/e4m3		"sounds/Heretic/MapNames/Episode4/Ambulatory.ogg"
+heretic/e4m4		"sounds/Heretic/MapNames/Episode4/Sepulcher.ogg"
+heretic/e4m5		"sounds/Heretic/MapNames/Episode4/GreatStair.ogg"
+heretic/e4m6		"sounds/Heretic/MapNames/Episode4/HallsOfTheApostate.ogg"
+heretic/e4m7		"sounds/Heretic/MapNames/Episode4/RampartsOfPerdition.ogg"
+heretic/e4m8		"sounds/Heretic/MapNames/Episode4/ShatteredBridge.ogg"
+heretic/e4m9		"sounds/Heretic/MapNames/Episode4/Mausoleum.ogg"
+
+
+//Episode 5
+
+heretic/e5m1		"sounds/Heretic/MapNames/Episode5/OchreCliffs.ogg"
+heretic/e5m2		"sounds/Heretic/MapNames/Episode5/Rapids.ogg"
+heretic/e5m3		"sounds/Heretic/MapNames/Episode5/Quay.ogg"
+heretic/e5m4		"sounds/Heretic/MapNames/Episode5/Courtyard.ogg"
+heretic/e5m5		"sounds/Heretic/MapNames/Episode5/Hydratyr.ogg"
+heretic/e5m6		"sounds/Heretic/MapNames/Episode5/Colonnade.ogg"
+heretic/e5m7		"sounds/Heretic/MapNames/Episode5/FoetidManse.ogg"
+heretic/e5m8		"sounds/Heretic/MapNames/Episode5/FieldOfJudgement.ogg"
+heretic/e5m9		"sounds/Heretic/MapNames/Episode5/SkeinOfDsparil.ogg"
+
+
+
+//*******************************************************
+//Menu Sounds
+//*******************************************************
+
+//Episode Selection
+
+heretic/menu/episode1		"sounds/Heretic/Menu/Episodes/HereticE1.ogg"
+heretic/menu/episode2		"sounds/Heretic/Menu/Episodes/HereticE2.ogg"
+heretic/menu/episode3		"sounds/Heretic/Menu/Episodes/HereticE3.ogg"
+heretic/menu/episode4		"sounds/Heretic/Menu/Episodes/HereticE4.ogg"
+heretic/menu/episode5		"sounds/Heretic/Menu/Episodes/HereticE5.ogg"
+
+
+//Main Menu
+
+heretic/menu/newgame				"sounds/Heretic/Menu/Main/NewGame.ogg"
+heretic/menu/options					"sounds/Heretic/Menu/Main/Options.ogg"
+heretic/menu/gamefiles				"sounds/Heretic/Menu/Main/GameFiles.ogg"
+heretic/menu/savegame				"sounds/Heretic/Menu/Main/SaveGame.ogg"
+heretic/menu/loadgame				"sounds/Heretic/Menu/Main/LoadGame.ogg"
+heretic/menu/info							"sounds/Heretic/Menu/Main/Info.ogg"
+heretic/menu/quitgame				"sounds/Heretic/Menu/Main/QuitGame.ogg"
+heretic/menu/chooseepisode		"sounds/Heretic/Menu/Main/ChooseEpisode.ogg"
+heretic/menu/difficulty					"sounds/Heretic/Menu/Main/ChooseDifficulty.ogg"
+
+
+//Skill Menu
+
+heretic/menu/skill/baby				"sounds/Heretic/Menu/Skill/BabyMode.ogg"
+heretic/menu/skill/easy				"sounds/Heretic/Menu/Skill/Easy.ogg"
+heretic/menu/skill/novice				"sounds/Heretic/Menu/Skill/Novice.ogg"
+heretic/menu/skill/hard				"sounds/Heretic/Menu/Skill/Hard.ogg"
+heretic/menu/skill/nightmare		"sounds/Heretic/Menu/Skill/Nightmare.ogg"
+
+
+
+//*******************************************************
+//Read Me Narrations
+//*******************************************************
+
+heretic/readme/e1						"sounds/Heretic/ReadMe/E1ReadMe.ogg"
+heretic/readme/e2						"sounds/Heretic/ReadMe/E2ReadMe.ogg"
+heretic/readme/e3						"sounds/Heretic/ReadMe/E3ReadMe.ogg"
+heretic/readme/e4						"sounds/Heretic/ReadMe/E4ReadMe.ogg"
+heretic/readme/e5						"sounds/Heretic/ReadMe/E5ReadMe.ogg"
+
+
+
+//*******************************************************
+//Actors In Viewport and Status Sounds
+//*******************************************************
+
+//Weapons
+
+heretic/weapon/staff					"sounds/Heretic/Viewport/Weapons/STAFF.ogg"
+heretic/weapon/beak					"sounds/Heretic/Viewport/Weapons/BEAK.ogg"
+heretic/weapon/gauntlets			"sounds/Heretic/Viewport/Weapons/Gauntlets.ogg"
+heretic/weapon/goldwand			"sounds/Heretic/Viewport/Weapons/GoldWand.ogg"
+heretic/weapon/goldwands			"sounds/Heretic/Viewport/Weapons/GoldWands.ogg"
+heretic/weapon/crossbow			"sounds/Heretic/Viewport/Weapons/ECrossbow.ogg"
+heretic/weapon/crossbows			"sounds/Heretic/Viewport/Weapons/ECrossbows.ogg"
+heretic/weapon/dragonclaw		"sounds/Heretic/Viewport/Weapons/DragonClaw.ogg"
+heretic/weapon/dragonclaws		"sounds/Heretic/Viewport/Weapons/DragonClaws.ogg"
+heretic/weapon/hellstaff				"sounds/Heretic/Viewport/Weapons/HellStaff.ogg"
+heretic/weapon/hellstaffs				"sounds/Heretic/Viewport/Weapons/HellStaffs.ogg"
+heretic/weapon/phoenixrod			"sounds/Heretic/Viewport/Weapons/PhoenixRod.ogg"
+heretic/weapon/phoenixrods		"sounds/Heretic/Viewport/Weapons/PhoenixRods.ogg"
+heretic/weapon/mace					"sounds/Heretic/Viewport/Weapons/FireMace.ogg"
+heretic/weapon/maces				"sounds/Heretic/Viewport/Weapons/FireMaces.ogg"
+
+//Ammo
+
+heretic/ammo/wandcrystal			"sounds/Heretic/Viewport/Ammo/WandCrystal.ogg"
+heretic/ammo/wandcrystals			"sounds/Heretic/Viewport/Ammo/WandCrystals.ogg"
+heretic/ammo/geode					"sounds/Heretic/Viewport/Ammo/Geode.ogg"
+heretic/ammo/geodes					"sounds/Heretic/Viewport/Ammo/Geodes.ogg"
+heretic/ammo/arrow					"sounds/Heretic/Viewport/Ammo/Arrow.ogg"
+heretic/ammo/arrows					"sounds/Heretic/Viewport/Ammo/Arrows.ogg"
+heretic/ammo/packofarrows		"sounds/Heretic/Viewport/Ammo/PackOf5Arrows.ogg"
+heretic/ammo/packsofarrows		"sounds/Heretic/Viewport/Ammo/PacksOf5Arrows.ogg"
+heretic/ammo/quiver					"sounds/Heretic/Viewport/Ammo/Quiver.ogg"
+heretic/ammo/quivers					"sounds/Heretic/Viewport/Ammo/Quivers.ogg"
+heretic/ammo/claworb					"sounds/Heretic/Viewport/Ammo/ClawOrb.ogg"
+heretic/ammo/claworbs				"sounds/Heretic/Viewport/Ammo/ClawOrbs.ogg"
+heretic/ammo/energyorb				"sounds/Heretic/Viewport/Ammo/EnergyOrb.ogg"
+heretic/ammo/energyorbs			"sounds/Heretic/Viewport/Ammo/EnergyOrbs.ogg"
+heretic/ammo/lesserrunes			"sounds/Heretic/Viewport/Ammo/LesserRunes.ogg"
+heretic/ammo/greaterrunes			"sounds/Heretic/Viewport/Ammo/GreaterRunes.ogg"
+heretic/ammo/flameorb				"sounds/Heretic/Viewport/Ammo/FlameOrb.ogg"
+heretic/ammo/flameorbs				"sounds/Heretic/Viewport/Ammo/FlameOrbs.ogg"
+heretic/ammo/infernoorb				"sounds/Heretic/Viewport/Ammo/InfernoOrb.ogg"
+heretic/ammo/infernoorbs			"sounds/Heretic/Viewport/Ammo/InfernoOrbs.ogg"
+heretic/ammo/macespheres		"sounds/Heretic/Viewport/Ammo/MaceSpheres.ogg"
+heretic/ammo/macepile				"sounds/Heretic/Viewport/Ammo/MaceSpherePile.ogg"
+heretic/ammo/macepiles				"sounds/Heretic/Viewport/Ammo/MaceSpherePiles.ogg"
+heretic/ammo/bagofholding			"sounds/Heretic/Viewport/Ammo/BagOfHolding.ogg"
+heretic/ammo/bagsofholding		"sounds/Heretic/Viewport/Ammo/BagsOfHolding.ogg"
+
+
+//Armor
+
+heretic/armor/silvershield			"sounds/Heretic/Viewport/Armor/SilverShield.ogg"
+heretic/armor/silvershields			"sounds/Heretic/Viewport/Armor/SilverShields.ogg"
+heretic/armor/enchantedshield	"sounds/Heretic/Viewport/Armor/EnchantedShield.ogg"
+heretic/armor/enchantedshields	"sounds/Heretic/Viewport/Armor/EnchantedShields.ogg"
+
+
+//Health
+
+heretic/health/vial						"sounds/Heretic/Viewport/Health/CrystalVial.ogg"
+heretic/health/vials						"sounds/Heretic/Viewport/Health/CrystalVials.ogg"
+heretic/health/flask						"sounds/Heretic/Viewport/Health/QuartzFlask.ogg"
+heretic/health/flasks					"sounds/Heretic/Viewport/Health/QuartzFlasks.ogg"
+heretic/health/urn						"sounds/Heretic/Viewport/Health/MysticUrn.ogg"
+heretic/health/urns						"sounds/Heretic/Viewport/Health/MysticUrns.ogg"
+
+
+//Keys
+
+heretic/key/bluekey						"sounds/Heretic/Viewport/Keys/BlueKey.ogg"
+heretic/key/bluekeys					"sounds/Heretic/Viewport/Keys/BlueKeys.ogg"
+heretic/key/greenkey					"sounds/Heretic/Viewport/Keys/GreenKey.ogg"
+heretic/key/greenkeys					"sounds/Heretic/Viewport/Keys/GreenKeys.ogg"
+heretic/key/yellowkey					"sounds/Heretic/Viewport/Keys/YellowKey.ogg"
+heretic/key/yellowkeys				"sounds/Heretic/Viewport/Keys/YellowKeys.ogg"
+
+
+//Artifacts
+
+heretic/artifact/chaosdevice			"sounds/Heretic/Viewport/Artifacts/ChaosDevice.ogg"
+heretic/artifact/chaosdevices		"sounds/Heretic/Viewport/Artifacts/ChaosDevices.ogg"
+heretic/artifact/morphovum			"sounds/Heretic/Viewport/Artifacts/MorphOvum.ogg"
+heretic/artifact/morphovums		"sounds/Heretic/Viewport/Artifacts/MorphOvums.ogg"
+heretic/artifact/mapscroll				"sounds/Heretic/Viewport/Artifacts/MapScroll.ogg"
+heretic/artifact/mapscrolls			"sounds/Heretic/Viewport/Artifacts/MapScrolls.ogg"
+heretic/artifact/shadowsphere		"sounds/Heretic/Viewport/Artifacts/ShadowSphere.ogg"
+heretic/artifact/shadowspheres	"sounds/Heretic/Viewport/Artifacts/ShadowSpheres.ogg"
+heretic/artifact/ring						"sounds/Heretic/Viewport/Artifacts/Ring.ogg"
+heretic/artifact/rings						"sounds/Heretic/Viewport/Artifacts/Rings.ogg"
+heretic/artifact/torch						"sounds/Heretic/Viewport/Artifacts/TorchPowerup.ogg"
+heretic/artifact/torches					"sounds/Heretic/Viewport/Artifacts/TorchPowerups.ogg"
+heretic/artifact/tome						"sounds/Heretic/Viewport/Artifacts/Tome.ogg"
+heretic/artifact/tomes					"sounds/Heretic/Viewport/Artifacts/Tomes.ogg"
+heretic/artifact/timebomb				"sounds/Heretic/Viewport/Artifacts/TimeBomb.ogg"
+heretic/artifact/timebombs			"sounds/Heretic/Viewport/Artifacts/TimeBombs.ogg"
+heretic/artifact/wings					"sounds/Heretic/Viewport/Artifacts/Wings.ogg"
+
+
+//Decoration
+
+heretic/deco/barrel						"sounds/Heretic/Viewport/Decorations/Barrel.ogg"
+heretic/deco/barrels						"sounds/Heretic/Viewport/Decorations/Barrels.ogg"
+heretic/deco/bluemarker				"sounds/Heretic/Viewport/Decorations/BlueMarker.ogg"
+heretic/deco/bluemarkers			"sounds/Heretic/Viewport/Decorations/BlueMarkers.ogg"
+heretic/deco/brownpillar				"sounds/Heretic/Viewport/Decorations/BrownPillar.ogg"
+heretic/deco/brownpillars			"sounds/Heretic/Viewport/Decorations/BrownPillars.ogg"
+heretic/deco/chandelier				"sounds/Heretic/Viewport/Decorations/Chandelier.ogg"
+heretic/deco/chandeliers				"sounds/Heretic/Viewport/Decorations/Chandeliers.ogg"
+heretic/deco/firebrazier				"sounds/Heretic/Viewport/Decorations/FireBrazier.ogg"
+heretic/deco/firebraziers				"sounds/Heretic/Viewport/Decorations/FireBraziers.ogg"
+heretic/deco/greenmarker			"sounds/Heretic/Viewport/Decorations/GreenMarker.ogg"
+heretic/deco/greenmarkers			"sounds/Heretic/Viewport/Decorations/GreenMarkers.ogg"
+heretic/deco/hangingcorpse		"sounds/Heretic/Viewport/Decorations/HangingCorpse.ogg"
+heretic/deco/hangingcorpses		"sounds/Heretic/Viewport/Decorations/HangingCorpses.ogg"
+heretic/deco/hangingskull			"sounds/Heretic/Viewport/Decorations/HangingSkull.ogg"
+heretic/deco/hangingskulls			"sounds/Heretic/Viewport/Decorations/HangingSkulls.ogg"
+heretic/deco/largestc					"sounds/Heretic/Viewport/Decorations/LargeStalactite.ogg"
+heretic/deco/largestcs					"sounds/Heretic/Viewport/Decorations/LargeStalactites.ogg"
+heretic/deco/largestm					"sounds/Heretic/Viewport/Decorations/LargeStalagmite.ogg"
+heretic/deco/largestms				"sounds/Heretic/Viewport/Decorations/LargeStalagmites.ogg"
+heretic/deco/moss						"sounds/Heretic/Viewport/Decorations/Moss.ogg"
+heretic/deco/pod							"sounds/Heretic/Viewport/Decorations/Pod.ogg"
+heretic/deco/pods						"sounds/Heretic/Viewport/Decorations/Pods.ogg"
+heretic/deco/serpenttorch			"sounds/Heretic/Viewport/Decorations/SerpentTorch.ogg"
+heretic/deco/serpenttorches		"sounds/Heretic/Viewport/Decorations/SerpentTorches.ogg"
+heretic/deco/smallpillar				"sounds/Heretic/Viewport/Decorations/SmallPillar.ogg"
+heretic/deco/smallpillars				"sounds/Heretic/Viewport/Decorations/SmallPillars.ogg"
+heretic/deco/smallstc					"sounds/Heretic/Viewport/Decorations/SmallStalactite.ogg"
+heretic/deco/smallstcs					"sounds/Heretic/Viewport/Decorations/SmallStalactites.ogg"
+heretic/deco/smallstm					"sounds/Heretic/Viewport/Decorations/SmallStalagmite.ogg"
+heretic/deco/smallstms				"sounds/Heretic/Viewport/Decorations/SmallStalagmites.ogg"
+heretic/deco/volcano					"sounds/Heretic/Viewport/Decorations/Volcano.ogg"
+heretic/deco/volcanoes				"sounds/Heretic/Viewport/Decorations/Volcanoes.ogg"
+heretic/deco/walltorch					"sounds/Heretic/Viewport/Decorations/WallTorch.ogg"
+heretic/deco/walltorches				"sounds/Heretic/Viewport/Decorations/WallTorches.ogg"
+heretic/deco/yellowmarker			"sounds/Heretic/Viewport/Decorations/YellowMarker.ogg"
+heretic/deco/yellowmarkers			"sounds/Heretic/Viewport/Decorations/YellowMarkers.ogg"
+
+
+//Monsters
+
+heretic/monster/chicken				"sounds/Heretic/Viewport/Monsters/Chicken.ogg"
+heretic/monster/chicken2			"sounds/Heretic/Viewport/Monsters/Chicken2.ogg"
+heretic/monster/disciple				"sounds/Heretic/Viewport/Monsters/Disciple.ogg"
+heretic/monster/disciples				"sounds/Heretic/Viewport/Monsters/Disciples.ogg"
+heretic/monster/dsparil				"sounds/Heretic/Viewport/Monsters/Dsparil.ogg"
+heretic/monster/dsparils				"sounds/Heretic/Viewport/Monsters/Dsparils.ogg"
+heretic/monster/dsparilmount		"sounds/Heretic/Viewport/Monsters/DsparilMounted.ogg"
+heretic/monster/dsparilsmount	"sounds/Heretic/Viewport/Monsters/DsparilsMounted.ogg"
+heretic/monster/gargoyle				"sounds/Heretic/Viewport/Monsters/Gargoyle.ogg"
+heretic/monster/gargoyles			"sounds/Heretic/Viewport/Monsters/Gargoyles.ogg"
+heretic/monster/gargleader			"sounds/Heretic/Viewport/Monsters/GargoyleLeader.ogg"
+heretic/monster/gargleaders		"sounds/Heretic/Viewport/Monsters/GargoyleLeaders.ogg"
+heretic/monster/golem					"sounds/Heretic/Viewport/Monsters/Golem.ogg"
+heretic/monster/golems				"sounds/Heretic/Viewport/Monsters/Golems.ogg"
+heretic/monster/ghostgolem		"sounds/Heretic/Viewport/Monsters/GhostGolem.ogg"
+heretic/monster/ghostgolems		"sounds/Heretic/Viewport/Monsters/GhostGolems.ogg"
+heretic/monster/nitrogolem			"sounds/Heretic/Viewport/Monsters/NitroGolem.ogg"
+heretic/monster/nitrogolems		"sounds/Heretic/Viewport/Monsters/NitroGolems.ogg"
+heretic/monster/ghostnitro			"sounds/Heretic/Viewport/Monsters/GhostNitroGolem.ogg"
+heretic/monster/ghostnitro			"sounds/Heretic/Viewport/Monsters/GhostNitroGolems.ogg"
+heretic/monster/knight					"sounds/Heretic/Viewport/Monsters/UndeadWarrior.ogg"
+heretic/monster/knights				"sounds/Heretic/Viewport/Monsters/UndeadWarriors.ogg"
+heretic/monster/ghostknight		"sounds/Heretic/Viewport/Monsters/GhostWarrior.ogg"
+heretic/monster/ghostknights		"sounds/Heretic/Viewport/Monsters/GhostWarriors.ogg"
+heretic/monster/ironlich				"sounds/Heretic/Viewport/Monsters/Ironlich.ogg"
+heretic/monster/ironliches			"sounds/Heretic/Viewport/Monsters/Ironliches.ogg"
+heretic/monster/minotaur			"sounds/Heretic/Viewport/Monsters/Minotaur.ogg"
+heretic/monster/minotaurs			"sounds/Heretic/Viewport/Monsters/Minotaurs.ogg"
+heretic/monster/ophidian				"sounds/Heretic/Viewport/Monsters/Ophidian.ogg"
+heretic/monster/ophidians			"sounds/Heretic/Viewport/Monsters/Ophidians.ogg"
+heretic/monster/clink					"sounds/Heretic/Viewport/Monsters/SabreClaw.ogg"
+heretic/monster/clinks					"sounds/Heretic/Viewport/Monsters/SabreClaws.ogg"
+heretic/monster/weredragon		"sounds/Heretic/Viewport/Monsters/Weredragon.ogg"
+heretic/monster/weredragons		"sounds/Heretic/Viewport/Monsters/Weredragons.ogg"
